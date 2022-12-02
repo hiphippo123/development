@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Bora Bora",
+        "description": "Pretty islands with water bungalos!",
+        "continent": "Oceania",
+        "climate": "Really Warm",
+        "cost": "3184",
+        "image": "images/borabora.png"
+    },
+    {
+        "name": "Vail",
+        "description": "Home to massive ski resorts!",
+        "continent": "North America",
+        "climate": "Really Cold",
+        "cost": "2624",
+        "image": "images/vail.jpeg"
+    },
+    {
+        "name": "Paris",
+        "description": "Home of the Eiffel tower!",
+        "continent": "Europe",
+        "climate": "Mild",
+        "cost": "1450",
+        "image": "images/paris.jpeg"
+    },
+    {
+        "name": "Venice",
+        "description": "A floating city with no roads!",
+        "continent": "Europe",
+        "climate": "Warm",
+        "cost": "1837",
+        "image": "images/venice.jpeg"
+    },
+    {
+        "name": "London",
+        "description": "Has a really big eye!",
+        "continent": "Europe",
+        "climate": "Mild",
+        "cost": "2549",
+        "image": "images/london.jpeg"
+    },
+    {
+        "name": "New York",
+        "description": "Concrete jungle we dream tomatooo!",
+        "continent": "North America",
+        "climate": "Cold",
+        "cost": "2057",
+        "image": "images/nyc.jpeg"
+    },
+    {
+        "name": "Los Angeles",
+        "description": "Hollywood!",
+        "continent": "North America",
+        "climate": "Really Warm",
+        "cost": "1423",
+        "image": "images/la.jpeg"
+    },
+    {
+        "name": "Tokyo",
+        "description": "Soosh!",
+        "continent": "Asia",
+        "climate": "Warm",
+        "cost": "1858",
+        "image": "images/tokyo.jpeg"
+    },
+    {
+        "name": "Sydney",
+        "description": "Pointy opera house!",
+        "continent": "Australia",
+        "climate": "Warm",
+        "cost": "2011",
+        "image": "images/sydney.jpeg"
+    },
+    {
+        "name": "Santiago",
+        "description": "Pretty views of big mountains!",
+        "continent": "South America",
+        "climate": "Mild",
+        "cost": "413",
+        "image": "images/santiago.jpeg"
+    },
+    {
+        "name": "Dubai",
+        "description": "Tall buildings!",
+        "continent": "Asia",
+        "climate": "Warm",
+        "cost": "1498",
+        "image": "images/dubai.jpeg"
+    },
+    {
+        "name": "Giza",
+        "description": "Big pyramids!",
+        "continent": "Africa",
+        "climate": "Warm",
+        "cost": "1158",
+        "image": "images/giza.jpeg"
+    }
+  ]
+  
