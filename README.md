@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://hiphippo123.github.io/development/
 
 ### Goal and Value of the Application
 Allow someone to build a travel bucket list and figure out about how much money they would need to save up to complete this bucket list. The application allows them to filter places by continent as well as by the general temperature ranges. The user can also sort places to visit from lowest or highest cost to match their own budget. You can reset the screen by deselecting all the filters and using the "default" sort setting.
