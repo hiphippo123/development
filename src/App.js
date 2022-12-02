@@ -145,10 +145,6 @@ function App() {
           </Col>
           <Col lg={2}>
             <BucketList items={cart} total={total} removeFromBucketList={RemoveFromBucketList} />
-            {tempFilters.map((filter) => (
-              <p>{filter}</p>
-            ))}
-            <p>{selectedTempFilters}</p>
           </Col>
         </Row>
         </Container>      
