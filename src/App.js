@@ -64,7 +64,7 @@ function App() {
       currFilters = [...currFilters, filter]
       currSelected += 1
     } else {
-      let index = filters.indexOf(filter)
+      let index = currFilters.indexOf(filter)
       currFilters.splice(index, 1)
       currSelected -= 1
     }
@@ -85,7 +85,7 @@ function App() {
       currFilters = [...currFilters, filter]
       currSelected += 1
     } else {
-      let index = filters.indexOf(filter)
+      let index = currFilters.indexOf(filter)
       currFilters.splice(index, 1)
       currSelected -= 1
     }
@@ -145,6 +145,10 @@ function App() {
           </Col>
           <Col lg={2}>
             <BucketList items={cart} total={total} removeFromBucketList={RemoveFromBucketList} />
+            {tempFilters.map((filter) => (
+              <p>{filter}</p>
+            ))}
+            <p>{selectedTempFilters}</p>
           </Col>
         </Row>
         </Container>      
